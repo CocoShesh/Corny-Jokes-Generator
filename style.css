@@ -105,6 +105,12 @@ footer {
 
 @media screen and (min-width: 320px) and (max-width: 640px) {
   main {
-    margin-inline: 1rem;
+    margin-inline: auto;
+  }
+  .divider img {
+    width: 250px;
+  }
+  .dice {
+    left: 40%;
   }
 }
